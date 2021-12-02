@@ -1,0 +1,52 @@
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.AssemblyReference.cache
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.GenerateResource.cache
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.CoreCompileInputs.cache
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.CopyComplete
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\rafel\OneDrive\Documentos\ITLA\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.AssemblyReference.cache
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.GenerateResource.cache
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.CoreCompileInputs.cache
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\euris\OneDrive\Escritorio\Reconocimiento facial2\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.AssemblyReference.cache
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.GenerateResource.cache
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.CoreCompileInputs.cache
+C:\Users\euris\OneDrive\Escritorio\DCU\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.FrmAyuda.resources
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.AssemblyReference.cache
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.FrmAyuda.resources
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.GenerateResource.cache
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.CoreCompileInputs.cache
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\AppRFacial.csproj.CopyComplete
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\rafel\Downloads\Reconocimiento-Facial-main\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
